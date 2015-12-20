@@ -18,7 +18,7 @@ We hope more Chinese could know about this machine learning package scikit-learn
 |  第3章 |  苑赞、Kris     |   2016/2/15  |              |
 |       |       罗伟      |   2016/2/15  |              |
 |  第4章 |  唐智雄、黄埔   |   2016/2/15  |              |
-|  第5章 |   刘贞、裴志华   |   2016/2/15  |              |
+|  第5章 |   肖军、裴志华   |   2016/2/15  |              |
 |  第7章 |  张举涛、方文达  |   2016/2/15  |              |
 
 ## 书写规范
